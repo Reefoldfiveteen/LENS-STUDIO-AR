@@ -1,1 +1,1 @@
-<img src="https://github.com/Reefoldfiveteen/LENS-STUDIO-AR/blob/main/Tugas%20Proyek%20Mandiri/pake%20peci/Pake%20Peci%20Lens%20Insight/Insight.png" width="90%"></img> 
+<img src="https://github.com/Reefoldfiveteen/LENS-STUDIO-AR/blob/b39038fcccfa5cdce3cb3adfc4648587c70bfdff/Tugas%20Proyek%20Mandiri/pake%20peci/Pake%20Peci%20Lens%20Insight/Insight.png" width="90%"></img> 
