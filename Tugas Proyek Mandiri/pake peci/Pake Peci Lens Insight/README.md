@@ -1,9 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## Pake Peci Screenshoot Insight
 
 #### DAY 1 (09/04/2022)
