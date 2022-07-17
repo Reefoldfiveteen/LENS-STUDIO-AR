@@ -1,7 +1,7 @@
 ## Pake Peci Screenshoot Insight
 
 #### Insight
-![Screenshot](https://raw.githubusercontent.com/Reefoldfiveteen/LENS-STUDIO-AR/main/Tugas%20Proyek%20Mandiri/QUIZ_MERDEKA/QUIZ_MERDEKA_INSIGHT/Insight.png)
+![Screenshot](https://github.com/Reefoldfiveteen/LENS-STUDIO-AR/raw/main/Tugas%20Proyek%20Mandiri/QUIZ_MERDEKA/QUIZ_MERDEKA_INSHIGHT/Insight.png)
 
 
 ## Authors
